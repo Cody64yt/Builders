@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Worker-",
+		"name": "A Worker",
 		"unitType": "Civilian",
 		"replaces": "Worker",
 		"movement": 2,
